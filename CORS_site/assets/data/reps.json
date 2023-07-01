@@ -1,0 +1,23 @@
+[
+    {
+        "region": "East",
+        "fname":"Foo",
+        "lname":"Bar",
+        "email": "foobar@test.com",
+        "phone": "555-123-4567"
+    },
+    {
+        "region": "Central",
+        "fname":"Biz",
+        "lname":"Baz",
+        "email": "bizbaz@test.com",
+        "phone": "555-123-4568"
+    },
+    {
+        "region": "West",
+        "fname":"Bing",
+        "lname":"Bang",
+        "email": "bingbang@test.com",
+        "phone": "555-123-4569"
+    }
+]
