@@ -15,7 +15,7 @@ function displayRep(rep, contactsRow) {
 $(document).ready(() => {
   let contactsRow = $('#contacts-row');
 
-  $.getJSON("https://cumulus-cycling-website-assets.s3.amazonaws.com/data/reps.json", reps => {
+  $.getJSON("https://YOUR_DOMAIN/data/reps.json", reps => {
     reps.forEach(rep => {
       displayRep(rep, contactsRow);
     });
